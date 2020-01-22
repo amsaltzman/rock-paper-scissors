@@ -6,7 +6,6 @@ player_inputs = []
 player_win = 0
 computer_win = 0
 tie = 0
-rounds = 0
 
 while player != "q":
     player = input("Rock (r), Paper (p), Scissors (s) or q to Quit:  ")
